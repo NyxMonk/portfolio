@@ -83,7 +83,7 @@ export default function Nav() {
 
           <div className="hidden md:block">
             <a
-              href="https://drive.google.com/file/d/1jTCXQMYfFQgNbfEVcuv5am27Turj9ZMl/view?usp=sharing"
+              href="https://drive.google.com/file/d/1gDTZMhi5HNZwkOz90jvckpYhevTQ3NfT/view?usp=sharing"
               className="text-[15px] tracking-[0.04em] text-stone hover:text-ink transition-colors duration-300"
             >
               Resume
@@ -130,7 +130,7 @@ export default function Nav() {
                 transition={{ duration: 0.5, delay: 0.05 * LINKS.length, ease: [0.16, 1, 0.3, 1] }}
                 className="pt-4"
               >
-                <a href="https://drive.google.com/file/d/1jTCXQMYfFQgNbfEVcuv5am27Turj9ZMl/view?usp=sharing" className="text-lg text-stone">
+                <a href="https://drive.google.com/file/d/1gDTZMhi5HNZwkOz90jvckpYhevTQ3NfT/view?usp=sharing" className="text-lg text-stone">
                   Resume
                 </a>
               </motion.li>
