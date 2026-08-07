@@ -2,7 +2,7 @@ import Reveal from "./Reveal";
 
 export default function About() {
   return (
-    <section id="about" className="scroll-mt-24 py-24 md:py-32 ">
+    <section id="about" className="scroll-mt-5 py-24 md:py-32 ">
       <div className="container-edit max-w-5xl">
         <Reveal>
           <p className="text-3xl md:text-5xl font-light tracking-[-0.03em] text-ink">

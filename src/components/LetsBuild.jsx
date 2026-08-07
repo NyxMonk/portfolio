@@ -24,7 +24,7 @@ const LINKS = [
   },
   {
     label: "Resume",
-    href: "https://drive.google.com/file/d/1gDTZMhi5HNZwkOz90jvckpYhevTQ3NfT/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1tJsG7U6bjqbcSIAReGTWovRKFZ3BAnw2/view?usp=sharing",
     icon: FaFileAlt,
   },
 ];
